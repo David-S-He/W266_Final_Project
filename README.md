@@ -7,3 +7,6 @@ Dataset links:
 
 GloVe and Text Conversion
 http://nlp.stanford.edu/data/glove.6B.zip
+
+Model Checkpoints:
+https://drive.google.com/drive/folders/1MHR49Vz9jZCT9J9b082ARcpjLu9m5k2P?usp=sharing
